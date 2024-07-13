@@ -33,9 +33,7 @@ Olá! Meu nome é André, sou estudante de EletroEletrônica, IoT e Desenvolvime
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   </td>
 
-  <td img>
-  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
-  </td>
+
   </tr>
   </table>
   
