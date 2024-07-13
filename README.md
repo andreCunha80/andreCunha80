@@ -34,7 +34,7 @@ Olá! Meu nome é André, sou estudante de EletroEletrônica, IoT e Desenvolvime
   </td>
 
   <td img>
-  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" width = "150px" height= "25px" >
+  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
   </td>
   </tr>
   </table>
