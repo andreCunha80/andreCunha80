@@ -1,4 +1,4 @@
-Olá! Meu nome é André, sou estudante de EletroEletrônica, IoT e Desenvolvimento de Software. 
+Estudante de EletroEletrônica, IoT e Desenvolvimento de Software. 
 
 
 
