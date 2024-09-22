@@ -1,4 +1,4 @@
-Estudante de EletroEletrônica, IoT e Desenvolvimento de Software. 
+IIoT Software Developer
 
 
 
